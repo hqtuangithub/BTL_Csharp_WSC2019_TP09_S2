@@ -1,0 +1,35 @@
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmEmployee.resources
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmEmploysRequest.resources
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmMaintenance.resources
+C:\Users\Admin\source\repos\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmMaintenanceDetail.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.exe.config
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.exe
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\GUI.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmEmployee.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmEmploysRequest.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmLogin.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmMaintenance.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.frmMaintenanceDetail.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.exe
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\BULs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\DTOs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\BULs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\DTOs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\DALs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\GUI\bin\Debug\DALs.pdb

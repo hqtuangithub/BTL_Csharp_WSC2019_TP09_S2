@@ -1,0 +1,6 @@
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\bin\Debug\DTOs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\bin\Debug\DTOs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\obj\Debug\DTOs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\obj\Debug\DTOs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DTOs\obj\Debug\DTOs.csprojAssemblyReference.cache

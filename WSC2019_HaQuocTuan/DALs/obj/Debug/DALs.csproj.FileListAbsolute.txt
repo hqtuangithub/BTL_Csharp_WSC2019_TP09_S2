@@ -1,0 +1,9 @@
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\bin\Debug\DALs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\bin\Debug\DALs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\obj\Debug\DALs.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\obj\Debug\DALs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\obj\Debug\DALs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\obj\Debug\DALs.csprojAssemblyReference.cache
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\bin\Debug\DTOs.dll
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\bin\Debug\DTOs.pdb
+D:\Documents\.NET\Bai Tap Lon\final\WSC2019_HaQuocTuan\DALs\obj\Debug\DALs.csproj.CopyComplete
